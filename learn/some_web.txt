@@ -1,0 +1,11 @@
+#C语言学习网 中文
+http://c.biancheng.net/
+
+#linux工具快速教程
+https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html
+
+#C语言中文学习手册
+https://m.php.cn/manual/view/34144.html
+
+#C++参考手册
+https://zh.cppreference.com
