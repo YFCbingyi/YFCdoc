@@ -9,3 +9,6 @@ https://m.php.cn/manual/view/34144.html
 
 #C++参考手册
 https://zh.cppreference.com
+
+#python学习资料
+https://www.liaoxuefeng.com/
